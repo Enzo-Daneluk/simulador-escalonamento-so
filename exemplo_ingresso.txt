@@ -1,0 +1,5 @@
+# Em t=12, a vence b pelo ingresso original (0 < 5), embora tenha reativado em 10.
+EDF;1;1
+a;FF0000;0;1;10;10
+b;00FF00;5;1;100;15
+x;0000FF;5;7;100;8

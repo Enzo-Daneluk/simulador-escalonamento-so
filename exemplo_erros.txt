@@ -1,0 +1,7 @@
+# Este arquivo NÃO carrega: mostra as mensagens de erro (todas de uma vez, com o número da linha).
+XYZ;0;0
+t01;E6194B;0;2;-5;5;
+t01;3CB44B;0;3;7;7;
+t03;ZZZZZZ;0;2;10;8;
+t04;4363D8;a;2;10;8;
+t05;4363D8;0;0;10;8;

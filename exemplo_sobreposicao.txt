@@ -1,0 +1,4 @@
+# C > T é permitido: ocorrências atrasadas são acumuladas e continuam executando.
+EDF;2;2
+a;E6194B;0;5;3;3
+b;4363D8;0;1;4;4

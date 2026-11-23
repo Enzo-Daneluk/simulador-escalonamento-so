@@ -1,0 +1,4 @@
+# Dez ocorrências: término em 270001, além do antigo limite de 200000 ticks.
+# Exporte pelo modo completo, o SVG terá largura grande por representar tudo.
+EDF;1;1
+a;FF0000;0;1;30000;30000

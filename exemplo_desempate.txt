@@ -1,0 +1,8 @@
+# Desempate: t01, t02 e t03 são idênticas (mesmo prazo, ingresso e duração), então o escalonador
+# recorre ao critério 5 (sorteio). Cada sorteio aparece no Gantt com o ícone de dado.
+# Com a mesma semente (--semente) o resultado se repete, mude a semente para ver outro sorteio.
+EDF;2;1
+t01;E6194B;0;2;10;10;
+t02;3CB44B;0;2;10;10;
+t03;4363D8;0;2;10;10;
+t04;F58231;0;1;5;5;

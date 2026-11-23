@@ -1,0 +1,8 @@
+# Exemplo principal: EDF global com 2 processadores (quantum 2).
+# Formato: algoritmo_escalonamento,quantum,qtde_cpus
+EDF;2;2
+# id,cor,ingresso,duracao,periodo,prazo,lista_eventos
+t01;E6194B;0;2;5;5;
+t02;3CB44B;0;3;7;7;
+t03;4363D8;1;2;10;8;
+t04;F58231;0;4;12;12;

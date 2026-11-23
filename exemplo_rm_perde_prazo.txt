@@ -1,0 +1,6 @@
+# RM com 1 processador: utilização 2/5 + 4/7 = 0,97 > 0,83 (limite de Liu & Layland para 2 tarefas).
+# t02 perde prazos (marcados com X vermelho no Gantt) e continua executando até terminar.
+# Troque o algoritmo para EDF (Editar > Sistema) e veja o mesmo conjunto cumprir todos os prazos.
+RM;2;1
+t01;E6194B;0;2;5;5;
+t02;4363D8;0;4;7;7;

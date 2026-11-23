@@ -1,0 +1,8 @@
+# Este arquivo CARREGA, mas gera avisos (aba "Avisos"): campos opcionais ausentes recebem valores
+# padrão, tarefa aperiódica (período 0) é ignorada no Projeto A e ids BS/PS/DS/SS são tratados
+# como tarefas periódicas comuns.
+rm;3;2
+A;FF0000;0;2;6;6;
+b;;1;1;4;;
+C;00FF00;0;3;0;5;
+BS01;0000FF;0;1;8;8;

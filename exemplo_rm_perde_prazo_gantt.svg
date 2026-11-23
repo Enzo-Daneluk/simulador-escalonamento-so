@@ -1,0 +1,379 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1864" height="346" viewBox="0 0 1864 346" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+<defs><pattern id="pontos" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#FFFFFF"/><circle cx="2.5" cy="2.5" r="1.1" fill="#000000"/></pattern><pattern id="hachura" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#EDEDED"/><line x1="2.5" y1="0" x2="2.5" y2="5" stroke="#9E9E9E"/></pattern></defs>
+<rect x="0" y="0" width="1864" height="346" fill="#FFFFFF" stroke="none" stroke-width="1"></rect>
+<rect x="0" y="0" width="1864" height="246" fill="#FFFFFF" stroke="none" stroke-width="1"></rect>
+<text x="10" y="20" text-anchor="start" font-size="14" font-weight="bold" fill="#000000">Gráfico de Gantt — RM · 1 CPU(s) · quantum 2 · finalizada</text>
+<line x1="92" y1="60" x2="92" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="92" y="195" text-anchor="middle" font-size="10" fill="#000000">0</text>
+<line x1="92" y1="180" x2="92" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="118" y1="180" x2="118" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="144" y1="60" x2="144" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="144" y="195" text-anchor="middle" font-size="10" fill="#000000">2</text>
+<line x1="144" y1="180" x2="144" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="170" y1="180" x2="170" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="196" y1="60" x2="196" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="196" y="195" text-anchor="middle" font-size="10" fill="#000000">4</text>
+<line x1="196" y1="180" x2="196" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="222" y1="180" x2="222" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="248" y1="60" x2="248" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="248" y="195" text-anchor="middle" font-size="10" fill="#000000">6</text>
+<line x1="248" y1="180" x2="248" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="274" y1="180" x2="274" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="300" y1="60" x2="300" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="300" y="195" text-anchor="middle" font-size="10" fill="#000000">8</text>
+<line x1="300" y1="180" x2="300" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="326" y1="180" x2="326" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="352" y1="60" x2="352" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="352" y="195" text-anchor="middle" font-size="10" fill="#000000">10</text>
+<line x1="352" y1="180" x2="352" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="378" y1="180" x2="378" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="404" y1="60" x2="404" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="404" y="195" text-anchor="middle" font-size="10" fill="#000000">12</text>
+<line x1="404" y1="180" x2="404" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="430" y1="180" x2="430" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="456" y1="60" x2="456" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="456" y="195" text-anchor="middle" font-size="10" fill="#000000">14</text>
+<line x1="456" y1="180" x2="456" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="482" y1="180" x2="482" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="508" y1="60" x2="508" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="508" y="195" text-anchor="middle" font-size="10" fill="#000000">16</text>
+<line x1="508" y1="180" x2="508" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="534" y1="180" x2="534" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="560" y1="60" x2="560" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="560" y="195" text-anchor="middle" font-size="10" fill="#000000">18</text>
+<line x1="560" y1="180" x2="560" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="586" y1="180" x2="586" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="612" y1="60" x2="612" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="612" y="195" text-anchor="middle" font-size="10" fill="#000000">20</text>
+<line x1="612" y1="180" x2="612" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="638" y1="180" x2="638" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="664" y1="60" x2="664" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="664" y="195" text-anchor="middle" font-size="10" fill="#000000">22</text>
+<line x1="664" y1="180" x2="664" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="690" y1="180" x2="690" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="716" y1="60" x2="716" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="716" y="195" text-anchor="middle" font-size="10" fill="#000000">24</text>
+<line x1="716" y1="180" x2="716" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="742" y1="180" x2="742" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="768" y1="60" x2="768" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="768" y="195" text-anchor="middle" font-size="10" fill="#000000">26</text>
+<line x1="768" y1="180" x2="768" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="794" y1="180" x2="794" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="820" y1="60" x2="820" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="820" y="195" text-anchor="middle" font-size="10" fill="#000000">28</text>
+<line x1="820" y1="180" x2="820" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="846" y1="180" x2="846" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="872" y1="60" x2="872" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="872" y="195" text-anchor="middle" font-size="10" fill="#000000">30</text>
+<line x1="872" y1="180" x2="872" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="898" y1="180" x2="898" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="924" y1="60" x2="924" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="924" y="195" text-anchor="middle" font-size="10" fill="#000000">32</text>
+<line x1="924" y1="180" x2="924" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="950" y1="180" x2="950" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="976" y1="60" x2="976" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="976" y="195" text-anchor="middle" font-size="10" fill="#000000">34</text>
+<line x1="976" y1="180" x2="976" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1002" y1="180" x2="1002" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1028" y1="60" x2="1028" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1028" y="195" text-anchor="middle" font-size="10" fill="#000000">36</text>
+<line x1="1028" y1="180" x2="1028" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1054" y1="180" x2="1054" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1080" y1="60" x2="1080" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1080" y="195" text-anchor="middle" font-size="10" fill="#000000">38</text>
+<line x1="1080" y1="180" x2="1080" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1106" y1="180" x2="1106" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1132" y1="60" x2="1132" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1132" y="195" text-anchor="middle" font-size="10" fill="#000000">40</text>
+<line x1="1132" y1="180" x2="1132" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1158" y1="180" x2="1158" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1184" y1="60" x2="1184" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1184" y="195" text-anchor="middle" font-size="10" fill="#000000">42</text>
+<line x1="1184" y1="180" x2="1184" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1210" y1="180" x2="1210" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1236" y1="60" x2="1236" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1236" y="195" text-anchor="middle" font-size="10" fill="#000000">44</text>
+<line x1="1236" y1="180" x2="1236" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1262" y1="180" x2="1262" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1288" y1="60" x2="1288" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1288" y="195" text-anchor="middle" font-size="10" fill="#000000">46</text>
+<line x1="1288" y1="180" x2="1288" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1314" y1="180" x2="1314" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1340" y1="60" x2="1340" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1340" y="195" text-anchor="middle" font-size="10" fill="#000000">48</text>
+<line x1="1340" y1="180" x2="1340" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1366" y1="180" x2="1366" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1392" y1="60" x2="1392" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1392" y="195" text-anchor="middle" font-size="10" fill="#000000">50</text>
+<line x1="1392" y1="180" x2="1392" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1418" y1="180" x2="1418" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1444" y1="60" x2="1444" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1444" y="195" text-anchor="middle" font-size="10" fill="#000000">52</text>
+<line x1="1444" y1="180" x2="1444" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1470" y1="180" x2="1470" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1496" y1="60" x2="1496" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1496" y="195" text-anchor="middle" font-size="10" fill="#000000">54</text>
+<line x1="1496" y1="180" x2="1496" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1522" y1="180" x2="1522" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1548" y1="60" x2="1548" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1548" y="195" text-anchor="middle" font-size="10" fill="#000000">56</text>
+<line x1="1548" y1="180" x2="1548" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1574" y1="180" x2="1574" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1600" y1="60" x2="1600" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1600" y="195" text-anchor="middle" font-size="10" fill="#000000">58</text>
+<line x1="1600" y1="180" x2="1600" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1626" y1="180" x2="1626" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1652" y1="60" x2="1652" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1652" y="195" text-anchor="middle" font-size="10" fill="#000000">60</text>
+<line x1="1652" y1="180" x2="1652" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1678" y1="180" x2="1678" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1704" y1="60" x2="1704" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1704" y="195" text-anchor="middle" font-size="10" fill="#000000">62</text>
+<line x1="1704" y1="180" x2="1704" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1730" y1="180" x2="1730" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1756" y1="60" x2="1756" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1756" y="195" text-anchor="middle" font-size="10" fill="#000000">64</text>
+<line x1="1756" y1="180" x2="1756" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1782" y1="180" x2="1782" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="1808" y1="60" x2="1808" y2="238" stroke="#E3E3E3" stroke-width="1"></line>
+<text x="1808" y="195" text-anchor="middle" font-size="10" fill="#000000">66</text>
+<line x1="1808" y1="180" x2="1808" y2="186" stroke="#000000" stroke-width="1"></line>
+<line x1="1834" y1="180" x2="1834" y2="183" stroke="#000000" stroke-width="1"></line>
+<line x1="92" y1="180" x2="1840" y2="180" stroke="#000000" stroke-width="1.6"></line>
+<text x="1842" y="184" text-anchor="start" font-size="11" font-weight="bold" fill="#000000">t</text>
+<rect x="92" y="120" width="1742" height="60" fill="#F7F7F7" stroke="none" stroke-width="1"></rect>
+<rect x="92" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=0 a t=2</title></rect>
+<text x="118" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="222" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=5 a t=7</title></rect>
+<text x="248" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="352" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=10 a t=12</title></rect>
+<text x="378" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="482" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=15 a t=17</title></rect>
+<text x="508" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="612" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=20 a t=22</title></rect>
+<text x="638" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="742" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=25 a t=27</title></rect>
+<text x="768" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="872" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=30 a t=32</title></rect>
+<text x="898" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1002" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=35 a t=37</title></rect>
+<text x="1028" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1132" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=40 a t=42</title></rect>
+<text x="1158" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1262" y="142" width="52" height="16" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>t01 executando na CPU 1: t=45 a t=47</title></rect>
+<text x="1288" y="153.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="92" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=0 a t=2</title></rect>
+<rect x="144" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=2 a t=5</title></rect>
+<text x="183" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="222" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=5 a t=7</title></rect>
+<rect x="274" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=7 a t=10</title></rect>
+<text x="313" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="352" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=10 a t=12</title></rect>
+<rect x="404" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=12 a t=15</title></rect>
+<text x="443" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="482" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=15 a t=17</title></rect>
+<rect x="534" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=17 a t=20</title></rect>
+<text x="573" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="638" y="82" width="26" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=21 a t=22</title></rect>
+<rect x="664" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=22 a t=25</title></rect>
+<text x="703" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="742" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=25 a t=27</title></rect>
+<rect x="794" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=27 a t=30</title></rect>
+<text x="833" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="872" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=30 a t=32</title></rect>
+<rect x="924" y="82" width="52" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=32 a t=34</title></rect>
+<text x="950" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1002" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=35 a t=37</title></rect>
+<rect x="1054" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=37 a t=40</title></rect>
+<text x="1093" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1132" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=40 a t=42</title></rect>
+<rect x="1184" y="82" width="78" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=42 a t=45</title></rect>
+<text x="1223" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1262" y="82" width="52" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"><title>t02 pronta (esperando CPU): t=45 a t=47</title></rect>
+<rect x="1314" y="82" width="156" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=47 a t=53</title></rect>
+<text x="1392" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1548" y="82" width="104" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=56 a t=60</title></rect>
+<text x="1600" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<rect x="1730" y="82" width="104" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>t02 executando na CPU 1: t=63 a t=67</title></rect>
+<text x="1782" y="93.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<polygon points="92,165.4 88.4,172.6 95.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=0: t01: ocorrência 1 ativada (duração 2, prazo absoluto 5)</title></polygon>
+<polygon points="92,105.4 88.4,112.6 95.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=0: t02: ocorrência 1 ativada (duração 4, prazo absoluto 7)</title></polygon>
+<polygon points="140.4,127.4 147.6,127.4 144,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=2: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="222,165.4 218.4,172.6 225.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=5: t01: ocorrência 2 ativada (duração 2, prazo absoluto 10)</title></polygon>
+<polygon points="218.4,127.4 225.6,127.4 222,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=5: t01 cumpriu o prazo 5</title></polygon>
+<polygon points="222,105.4 225.6,109 222,112.6 218.4,109" fill="#EF6C00" stroke="none" stroke-width="1"><title>t=5: t02 perdeu a CPU 1 (preempção)</title></polygon>
+<polygon points="270.4,127.4 277.6,127.4 274,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=7: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="274,105.4 270.4,112.6 277.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=7: t02: ocorrência 2 ativada (duração 4, prazo absoluto 14)</title></polygon>
+<line x1="270.4" y1="67.4" x2="277.6" y2="74.6" stroke="#D32F2F" stroke-width="2.2"><title>t=7: t02 PERDEU o prazo 7 (ativada em 0, faltam 1). A ocorrência continua executando</title></line>
+<line x1="270.4" y1="74.6" x2="277.6" y2="67.4" stroke="#D32F2F" stroke-width="2.2"></line>
+<polygon points="296.4,67.4 303.6,67.4 300,74.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=8: t02 terminou a ocorrência (tempo de resposta = 8) na CPU 1</title></polygon>
+<polygon points="352,165.4 348.4,172.6 355.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=10: t01: ocorrência 3 ativada (duração 2, prazo absoluto 15)</title></polygon>
+<polygon points="348.4,127.4 355.6,127.4 352,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=10: t01 cumpriu o prazo 10</title></polygon>
+<polygon points="352,105.4 355.6,109 352,112.6 348.4,109" fill="#EF6C00" stroke="none" stroke-width="1"><title>t=10: t02 perdeu a CPU 1 (preempção)</title></polygon>
+<polygon points="400.4,127.4 407.6,127.4 404,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=12: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="452.4,62.9 459.6,62.9 456,70.1" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=14: t02 terminou a ocorrência (tempo de resposta = 7) na CPU 1</title></polygon>
+<polygon points="452.4,71.9 459.6,71.9 456,79.1" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=14: t02 cumpriu o prazo 14</title></polygon>
+<polygon points="456,105.4 452.4,112.6 459.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=14: t02: ocorrência 3 ativada (duração 4, prazo absoluto 21)</title></polygon>
+<polygon points="482,165.4 478.4,172.6 485.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=15: t01: ocorrência 4 ativada (duração 2, prazo absoluto 20)</title></polygon>
+<polygon points="478.4,127.4 485.6,127.4 482,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=15: t01 cumpriu o prazo 15</title></polygon>
+<polygon points="482,105.4 485.6,109 482,112.6 478.4,109" fill="#EF6C00" stroke="none" stroke-width="1"><title>t=15: t02 perdeu a CPU 1 (preempção)</title></polygon>
+<polygon points="530.4,127.4 537.6,127.4 534,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=17: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="608.4,67.4 615.6,67.4 612,74.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=20: t02 terminou a ocorrência (tempo de resposta = 6) na CPU 1</title></polygon>
+<polygon points="612,165.4 608.4,172.6 615.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=20: t01: ocorrência 5 ativada (duração 2, prazo absoluto 25)</title></polygon>
+<polygon points="608.4,127.4 615.6,127.4 612,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=20: t01 cumpriu o prazo 20</title></polygon>
+<polygon points="638,105.4 634.4,112.6 641.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=21: t02: ocorrência 4 ativada (duração 4, prazo absoluto 28)</title></polygon>
+<polygon points="634.4,67.4 641.6,67.4 638,74.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=21: t02 cumpriu o prazo 21</title></polygon>
+<polygon points="660.4,127.4 667.6,127.4 664,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=22: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="742,165.4 738.4,172.6 745.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=25: t01: ocorrência 6 ativada (duração 2, prazo absoluto 30)</title></polygon>
+<polygon points="738.4,127.4 745.6,127.4 742,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=25: t01 cumpriu o prazo 25</title></polygon>
+<polygon points="742,105.4 745.6,109 742,112.6 738.4,109" fill="#EF6C00" stroke="none" stroke-width="1"><title>t=25: t02 perdeu a CPU 1 (preempção)</title></polygon>
+<polygon points="790.4,127.4 797.6,127.4 794,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=27: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="816.4,62.9 823.6,62.9 820,70.1" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=28: t02 terminou a ocorrência (tempo de resposta = 7) na CPU 1</title></polygon>
+<polygon points="816.4,71.9 823.6,71.9 820,79.1" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=28: t02 cumpriu o prazo 28</title></polygon>
+<polygon points="820,105.4 816.4,112.6 823.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=28: t02: ocorrência 5 ativada (duração 4, prazo absoluto 35)</title></polygon>
+<polygon points="872,165.4 868.4,172.6 875.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=30: t01: ocorrência 7 ativada (duração 2, prazo absoluto 35)</title></polygon>
+<polygon points="868.4,127.4 875.6,127.4 872,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=30: t01 cumpriu o prazo 30</title></polygon>
+<polygon points="872,105.4 875.6,109 872,112.6 868.4,109" fill="#EF6C00" stroke="none" stroke-width="1"><title>t=30: t02 perdeu a CPU 1 (preempção)</title></polygon>
+<polygon points="920.4,127.4 927.6,127.4 924,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=32: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="972.4,67.4 979.6,67.4 976,74.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=34: t02 terminou a ocorrência (tempo de resposta = 6) na CPU 1</title></polygon>
+<polygon points="1002,165.4 998.4,172.6 1005.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=35: t01: ocorrência 8 ativada (duração 2, prazo absoluto 40)</title></polygon>
+<polygon points="1002,105.4 998.4,112.6 1005.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=35: t02: ocorrência 6 ativada (duração 4, prazo absoluto 42)</title></polygon>
+<polygon points="998.4,127.4 1005.6,127.4 1002,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=35: t01 cumpriu o prazo 35</title></polygon>
+<polygon points="998.4,67.4 1005.6,67.4 1002,74.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=35: t02 cumpriu o prazo 35</title></polygon>
+<polygon points="1050.4,127.4 1057.6,127.4 1054,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=37: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="1132,165.4 1128.4,172.6 1135.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=40: t01: ocorrência 9 ativada (duração 2, prazo absoluto 45)</title></polygon>
+<polygon points="1128.4,127.4 1135.6,127.4 1132,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=40: t01 cumpriu o prazo 40</title></polygon>
+<polygon points="1132,105.4 1135.6,109 1132,112.6 1128.4,109" fill="#EF6C00" stroke="none" stroke-width="1"><title>t=40: t02 perdeu a CPU 1 (preempção)</title></polygon>
+<polygon points="1180.4,127.4 1187.6,127.4 1184,134.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=42: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<polygon points="1184,105.4 1180.4,112.6 1187.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=42: t02: ocorrência 7 ativada (duração 4, prazo absoluto 49)</title></polygon>
+<line x1="1180.4" y1="67.4" x2="1187.6" y2="74.6" stroke="#D32F2F" stroke-width="2.2"><title>t=42: t02 PERDEU o prazo 42 (ativada em 35, faltam 1). A ocorrência continua executando</title></line>
+<line x1="1180.4" y1="74.6" x2="1187.6" y2="67.4" stroke="#D32F2F" stroke-width="2.2"></line>
+<polygon points="1206.4,67.4 1213.6,67.4 1210,74.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=43: t02 terminou a ocorrência (tempo de resposta = 8) na CPU 1</title></polygon>
+<polygon points="1262,165.4 1258.4,172.6 1265.6,172.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=45: t01: ocorrência 10 ativada (duração 2, prazo absoluto 50)</title></polygon>
+<polygon points="1258.4,127.4 1265.6,127.4 1262,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=45: t01 cumpriu o prazo 45</title></polygon>
+<polygon points="1262,105.4 1265.6,109 1262,112.6 1258.4,109" fill="#EF6C00" stroke="none" stroke-width="1"><title>t=45: t02 perdeu a CPU 1 (preempção)</title></polygon>
+<polygon points="1310.4,122.9 1317.6,122.9 1314,130.1" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=47: t01 terminou a ocorrência (tempo de resposta = 2) na CPU 1</title></polygon>
+<rect x="1311.1" y="132.6" width="5.8" height="5.8" fill="#000000" stroke="none" stroke-width="1"><title>t=47: t01 encerrada após 10 execuções</title></rect>
+<polygon points="1362.4,62.9 1369.6,62.9 1366,70.1" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=49: t02 terminou a ocorrência (tempo de resposta = 7) na CPU 1</title></polygon>
+<polygon points="1362.4,71.9 1369.6,71.9 1366,79.1" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=49: t02 cumpriu o prazo 49</title></polygon>
+<polygon points="1366,105.4 1362.4,112.6 1369.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=49: t02: ocorrência 8 ativada (duração 4, prazo absoluto 56)</title></polygon>
+<polygon points="1388.4,127.4 1395.6,127.4 1392,134.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=50: t01 cumpriu o prazo 50</title></polygon>
+<polygon points="1466.4,67.4 1473.6,67.4 1470,74.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=53: t02 terminou a ocorrência (tempo de resposta = 4) na CPU 1</title></polygon>
+<polygon points="1548,105.4 1544.4,112.6 1551.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=56: t02: ocorrência 9 ativada (duração 4, prazo absoluto 63)</title></polygon>
+<polygon points="1544.4,67.4 1551.6,67.4 1548,74.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=56: t02 cumpriu o prazo 56</title></polygon>
+<polygon points="1648.4,67.4 1655.6,67.4 1652,74.6" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=60: t02 terminou a ocorrência (tempo de resposta = 4) na CPU 1</title></polygon>
+<polygon points="1730,105.4 1726.4,112.6 1733.6,112.6" fill="#1565C0" stroke="none" stroke-width="1"><title>t=63: t02: ocorrência 10 ativada (duração 4, prazo absoluto 70)</title></polygon>
+<polygon points="1726.4,67.4 1733.6,67.4 1730,74.6" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"><title>t=63: t02 cumpriu o prazo 63</title></polygon>
+<polygon points="1830.4,62.9 1837.6,62.9 1834,70.1" fill="#2E7D32" stroke="none" stroke-width="1"><title>t=67: t02 terminou a ocorrência (tempo de resposta = 4) na CPU 1</title></polygon>
+<rect x="1831.1" y="72.6" width="5.8" height="5.8" fill="#000000" stroke="none" stroke-width="1"><title>t=67: t02 encerrada após 10 execuções</title></rect>
+<rect x="92" y="210" width="1742" height="22" fill="none" stroke="#C8C8C8" stroke-width="1"></rect>
+<rect x="92" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=0 a t=2</title></rect>
+<text x="118" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="144" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=2 a t=5</title></rect>
+<text x="183" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="222" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=5 a t=7</title></rect>
+<text x="248" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="274" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=7 a t=10</title></rect>
+<text x="313" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="352" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=10 a t=12</title></rect>
+<text x="378" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="404" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=12 a t=15</title></rect>
+<text x="443" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="482" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=15 a t=17</title></rect>
+<text x="508" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="534" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=17 a t=20</title></rect>
+<text x="573" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="612" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=20 a t=22</title></rect>
+<text x="638" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="664" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=22 a t=25</title></rect>
+<text x="703" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="742" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=25 a t=27</title></rect>
+<text x="768" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="794" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=27 a t=30</title></rect>
+<text x="833" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="872" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=30 a t=32</title></rect>
+<text x="898" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="924" y="210" width="52" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=32 a t=34</title></rect>
+<text x="950" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="976" y="210" width="26" height="22" fill="url(#hachura)" stroke="#9E9E9E" stroke-width="1"><title>CPU 1 DESLIGADA de t=34 a t=35 (1 ticks)</title></rect>
+<rect x="1002" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=35 a t=37</title></rect>
+<text x="1028" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="1054" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=37 a t=40</title></rect>
+<text x="1093" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="1132" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=40 a t=42</title></rect>
+<text x="1158" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="1184" y="210" width="78" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=42 a t=45</title></rect>
+<text x="1223" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="1262" y="210" width="52" height="22" fill="#E6194B" stroke="#000000" stroke-width="0.8"><title>CPU 1: t01, t=45 a t=47</title></rect>
+<text x="1288" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t01</text>
+<rect x="1314" y="210" width="156" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=47 a t=53</title></rect>
+<text x="1392" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="1470" y="210" width="78" height="22" fill="url(#hachura)" stroke="#9E9E9E" stroke-width="1"><title>CPU 1 DESLIGADA de t=53 a t=56 (3 ticks)</title></rect>
+<text x="1509" y="225" text-anchor="middle" font-size="10" fill="#555555">desligada</text>
+<rect x="1548" y="210" width="104" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=56 a t=60</title></rect>
+<text x="1600" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<rect x="1652" y="210" width="78" height="22" fill="url(#hachura)" stroke="#9E9E9E" stroke-width="1"><title>CPU 1 DESLIGADA de t=60 a t=63 (3 ticks)</title></rect>
+<text x="1691" y="225" text-anchor="middle" font-size="10" fill="#555555">desligada</text>
+<rect x="1730" y="210" width="104" height="22" fill="#4363D8" stroke="#000000" stroke-width="0.8"><title>CPU 1: t02, t=63 a t=67</title></rect>
+<text x="1782" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">t02</text>
+<circle cx="196" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=4: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="352" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=10: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="586" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=19: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="716" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=24: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="872" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=30: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="1106" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=39: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="1262" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=45: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="1418" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=51: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="1600" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=58: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<circle cx="1782" cy="232" r="2.4" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"><title>t=65: quantum de t02 esgotado na CPU 1: escalonador acionado</title></circle>
+<rect x="0" y="56" width="86" height="190" fill="#FFFFFF" stroke="none" stroke-width="1"></rect>
+<rect x="8" y="145" width="10" height="10" fill="#E6194B" stroke="#000000" stroke-width="0.8"></rect>
+<text x="24" y="154" text-anchor="start" font-size="12" font-weight="bold" fill="#000000">t01</text>
+<rect x="8" y="85" width="10" height="10" fill="#4363D8" stroke="#000000" stroke-width="0.8"></rect>
+<text x="24" y="94" text-anchor="start" font-size="12" font-weight="bold" fill="#000000">t02</text>
+<text x="82" y="225" text-anchor="end" font-size="11" font-weight="bold" fill="#000000">CPU 1</text>
+<rect x="0" y="246" width="1864" height="100" fill="#FFFFFF" stroke="none" stroke-width="1"></rect>
+<text x="10" y="266" text-anchor="start" font-size="13" font-weight="bold" fill="#000000">Legenda</text>
+<rect x="10" y="278" width="26" height="16" fill="#4363D8" stroke="#000000" stroke-width="0.8"></rect>
+<text x="23" y="289.5" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">P1</text>
+<text x="44" y="290" text-anchor="start" font-size="11" fill="#000000">execução (P&lt;n&gt; = CPU usada)</text>
+<rect x="260" y="278" width="26" height="16" fill="none" stroke="#8A8A8A" stroke-width="1"></rect>
+<text x="294" y="290" text-anchor="start" font-size="11" fill="#000000">pronta (espera CPU, sem cor)</text>
+<rect x="510" y="278" width="26" height="16" fill="url(#pontos)" stroke="#000000" stroke-width="1"></rect>
+<text x="544" y="290" text-anchor="start" font-size="11" fill="#000000">suspensa (preto pontilhado)</text>
+<rect x="760" y="278" width="26" height="16" fill="url(#hachura)" stroke="#9E9E9E" stroke-width="1"></rect>
+<text x="794" y="290" text-anchor="start" font-size="11" fill="#000000">CPU desligada (sem tarefa)</text>
+<polygon points="1023,281.8 1018.8,290.2 1027.2,290.2" fill="#1565C0" stroke="none" stroke-width="1"></polygon>
+<text x="1044" y="290" text-anchor="start" font-size="11" fill="#000000">ativação (entra na fila de prontos)</text>
+<polygon points="1268.8,281.8 1277.2,281.8 1273,290.2" fill="#2E7D32" stroke="none" stroke-width="1"></polygon>
+<text x="1294" y="290" text-anchor="start" font-size="11" fill="#000000">término de ocorrência</text>
+<rect x="19.6" y="304.6" width="6.7" height="6.7" fill="#000000" stroke="none" stroke-width="1"></rect>
+<text x="44" y="312" text-anchor="start" font-size="11" fill="#000000">tarefa encerrada</text>
+<polygon points="268.8,303.8 277.2,303.8 273,312.2" fill="#FFFFFF" stroke="#616161" stroke-width="1.2"></polygon>
+<text x="294" y="312" text-anchor="start" font-size="11" fill="#000000">prazo cumprido</text>
+<line x1="518.8" y1="303.8" x2="527.2" y2="312.2" stroke="#D32F2F" stroke-width="2.2"></line>
+<line x1="518.8" y1="312.2" x2="527.2" y2="303.8" stroke="#D32F2F" stroke-width="2.2"></line>
+<text x="544" y="312" text-anchor="start" font-size="11" fill="#000000">PRAZO PERDIDO</text>
+<polygon points="773,303.8 777.2,308 773,312.2 768.8,308" fill="#EF6C00" stroke="none" stroke-width="1"></polygon>
+<text x="794" y="312" text-anchor="start" font-size="11" fill="#000000">preempção (perde a CPU)</text>
+<polygon points="1018.8,303.8 1023,308 1018.8,312.2" fill="#7B1FA2" stroke="none" stroke-width="1"></polygon>
+<polygon points="1023,303.8 1027.2,308 1023,312.2" fill="#7B1FA2" stroke="none" stroke-width="1"></polygon>
+<text x="1044" y="312" text-anchor="start" font-size="11" fill="#000000">migração para outra CPU</text>
+<rect x="1268.8" y="303.8" width="8.4" height="8.4" fill="#FFFFFF" stroke="#37474F" stroke-width="1.2"></rect>
+<circle cx="1270.9" cy="305.9" r="1" fill="#37474F" stroke="none" stroke-width="1"></circle>
+<circle cx="1273" cy="308" r="1" fill="#37474F" stroke="none" stroke-width="1"></circle>
+<circle cx="1275.1" cy="310.1" r="1" fill="#37474F" stroke="none" stroke-width="1"></circle>
+<text x="1294" y="312" text-anchor="start" font-size="11" fill="#000000">sorteio de desempate</text>
+<rect x="19.6" y="325.8" width="2.5" height="8.4" fill="#000000" stroke="none" stroke-width="1"></rect>
+<rect x="23.8" y="325.8" width="2.5" height="8.4" fill="#000000" stroke="none" stroke-width="1"></rect>
+<text x="44" y="334" text-anchor="start" font-size="11" fill="#000000">suspensão</text>
+<polygon points="270.1,325.8 270.1,334.2 277.2,330" fill="#000000" stroke="none" stroke-width="1"></polygon>
+<text x="294" y="334" text-anchor="start" font-size="11" fill="#000000">retomada</text>
+<polygon points="523,325.2 524.3,328.7 527.8,330 524.3,331.3 523,334.8 521.7,331.3 518.2,330 521.7,328.7" fill="#C2185B" stroke="none" stroke-width="1"></polygon>
+<text x="544" y="334" text-anchor="start" font-size="11" fill="#000000">modificação manual</text>
+<circle cx="773" cy="330" r="2.7" fill="#FFFFFF" stroke="#455A64" stroke-width="1.2"></circle>
+<text x="794" y="334" text-anchor="start" font-size="11" fill="#000000">quantum esgotado (escalonador)</text>
+<line x1="1023" y1="321" x2="1023" y2="339" stroke="#C2185B" stroke-width="1" stroke-dasharray="4 3"></line>
+<polygon points="1023,320.1 1024.1,322.9 1026.9,324 1024.1,325.1 1023,327.9 1021.9,325.1 1019.1,324 1021.9,322.9" fill="#C2185B" stroke="none" stroke-width="1"></polygon>
+<text x="1044" y="334" text-anchor="start" font-size="11" fill="#000000">modificação do sistema</text>
+</svg>
